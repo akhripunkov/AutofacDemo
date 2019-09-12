@@ -9,7 +9,7 @@ namespace AutofacTest
     {
         private IOutput _output;
 
-        public TodayWriter(IOutput output)
+         public TodayWriter(IOutput output)
         {
             _output = output;
         }
