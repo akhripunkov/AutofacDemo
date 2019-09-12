@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacTest", "AutofacTest.csproj", "{C3ACB64D-614F-488E-B9E6-4CF90EAC1A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3ACB64D-614F-488E-B9E6-4CF90EAC1A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3ACB64D-614F-488E-B9E6-4CF90EAC1A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3ACB64D-614F-488E-B9E6-4CF90EAC1A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3ACB64D-614F-488E-B9E6-4CF90EAC1A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF96040-5102-4606-B73E-CC40FBCE0B0B}
+	EndGlobalSection
+EndGlobal
